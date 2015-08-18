@@ -1,0 +1,48 @@
+From piotr at griffith.cc  Tue Feb 10 22:27:18 2009
+From: piotr at griffith.cc (Piotr =?utf-8?Q?O=C5=BCarowski?=)
+Date: Tue, 10 Feb 2009 22:27:18 +0100
+Subject: [Griffith-announce] Griffith 0.10-beta2 released
+Message-ID: <20090210212718.GD3602@piotro.eu>
+
+Hi,
+
+Griffith 0.10-beta2 has been released.
+
+Main changes:
+* Most movie plugins updated
+* New fields: barcode, resolution (width and height or PAL, NTSC, VGA,
+  HD 1080, etc.)
+* Better results for Amazon poster search
+* HTML export plugin exports posters again
+* Reload movie plugin each time search is performed (in --debug mode only, this
+  should ease writing movie plugins)
+* Canceling search doesn't throw exception anymore
+* --shell command line option added (for advanced users/developers only!)
+
+Note to package maintainers:
+In --shell mode, ipython will be used if detected (you can suggest ipython,
+please don't make this dependency required, though)
+
+There will be at least one more beta/rc version, please report bugs
+on http://bugs.griffith.cc/ (with "0.10" tag)
+
+
+Checksums-Sha1: 
+ 9df05b8c704b6df8893e2e90555040221c6d9e4e 1267994 griffith-0.10-beta2.tar.gz
+ ab1f4793840c26cdf40eb8b995dfb28b578914cc 702150 griffith_0.10~beta2-1_all.deb
+Checksums-Sha256: 
+ f76d0325f1811d67b7bbbf5161d3142b7285ac2fa5e9628815c04e0ebf83a123 1267994 griffith-0.10-beta2.tar.gz
+ 10f2e29711828bc23bceeb8f08d254cbcce515eb1406942da37ad06f72dc5a70 702150 griffith_0.10~beta2-1_all.deb
+Checksums-MD5:
+ 9be757516cef84b43cfbed5551256856 1267994 gnome optional griffith-0.10-beta2.tar.gz
+ 1d3bdf641c32957a81a33578c7e493c4 702150 gnome optional griffith_0.10~beta2-1_all.deb
+-- 
+Griffith Development Team
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 197 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20090210/6a7618f4/attachment.pgp>
+

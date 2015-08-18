@@ -1,0 +1,16 @@
+From ozarow at gmail.com  Sat Dec 27 23:47:28 2008
+From: ozarow at gmail.com (Piotr Ozarowski)
+Date: Sat, 27 Dec 2008 23:47:28 +0100
+Subject: [Griffith-announce] Griffith 0.9.9 released
+Message-ID: <20081227224728.GR7666@piotro.eu>
+
+Griffith version 0.9.9 has been released.
+
+This release fixes some MySQL related issues and updates movie plugins
+(including default IMDb plugin)
+
+Please read ChangeLog for more details.
+-- 
+Griffith Development Team
+
+

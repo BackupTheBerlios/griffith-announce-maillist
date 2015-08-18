@@ -1,0 +1,17 @@
+From vasco.m.nunes at gmail.com  Sat Apr 15 17:28:05 2006
+From: vasco.m.nunes at gmail.com (Vasco Nunes)
+Date: Sat, 15 Apr 2006 16:28:05 +0100
+Subject: [Griffith-announce] Griffith 0.6.1 is out!
+Message-ID: <bf6fc4cb0604150828s5a0b82eei35ef6b42b0cbe5c2@mail.gmail.com>
+
+Just to let you know that Griffith 0.6.1 has been released. This is
+mainly a bug fix release. The most important around this release is
+that now win32 version is up-to-date with linux one.
+
+Make sure to visit http://griffith.vasconunes.net/ for packages.
+
+--
+Vasco Nunes
+<vasco.m.nunes at gmail.com>
+
+

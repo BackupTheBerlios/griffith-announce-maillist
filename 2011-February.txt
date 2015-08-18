@@ -1,0 +1,29 @@
+From vasco.m.nunes at me.com  Sat Feb  5 19:00:19 2011
+From: vasco.m.nunes at me.com (Vasco Nunes)
+Date: Sat, 05 Feb 2011 18:00:19 +0000
+Subject: [Griffith-announce] Griffith 0.12.1 for MacOSX
+Message-ID: <AC04508F-ADFA-40FF-8DCA-FBC5DE7A99AF@me.com>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+We're proud to annouce the release of Griffith 0.12.1 installer for MacOSX.
+
+This release is the first ever available for this platform and should be considered in beta stage. Use the bug tracker to submit any bugs.
+
+Download available at  http://griffith.cc/index.php?option=com_content&task=view&id=22&Itemid=39
+
+The Griffith Development Team
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG/MacGPG2 v2.0.16 (Darwin)
+
+iQEcBAEBAgAGBQJNTZA7AAoJEMpzoJZ54dQfvXcH/RYHL2KHfXeLrgGNlp00iv3k
+rRiqlM9rWKlfMMs3eUI45dd1F4FWbkU3M9YnglH9ZtePdisWyzRVQFX0nxOIKb1c
+DzAyT32sLxcNRSyXq2X4M8rd6hlVtDkamP1sijyt8yZZaMvJrht8wdcB4BeyCFY3
+F4eJbHHiC2+RV/tDprDzjtaJRiMKSncLvp/jiC270LR0xqrwhhfa84slAIDRZV4R
+dDKpey3rJFlYAjSvNIVkCfWtWLUX5oeLKWVEC8KAGiGfZUVOBCqKR8WUvYLziWCN
++57edgktyr9Y0Vo3fWrD7wbJ083XiwE0SvNxRXDaYC+DOkaULi1nXey1eZP/qVE=
+=qoi6
+-----END PGP SIGNATURE-----
+
+

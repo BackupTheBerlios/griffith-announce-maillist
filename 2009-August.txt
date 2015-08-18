@@ -1,0 +1,38 @@
+From piotr at griffith.cc  Mon Aug  3 23:03:06 2009
+From: piotr at griffith.cc (Piotr =?utf-8?Q?O=C5=BCarowski?=)
+Date: Mon, 3 Aug 2009 23:03:06 +0200
+Subject: [Griffith-announce] Griffith 0.10 released
+Message-ID: <20090803210306.GE4612@piotro.eu>
+
+Griffith 0.10 has finally been released :-)
+
+Main changes compared to 0.9.x:
+* Filtering movies using complex search criteria
+* Posters stored in database
+* Restoring from backup works with external databases
+* New fields: aspect ratio, cameraman, screenplay, barcode, resolution
+* Many movie plugins updated
+* New export plugins: Ant Movie Catalog, GCstar, DVD Profiler XML Export V2 and V3
+* New import plugin: Ant Movie Catalog
+* Export plugins are now exporting movies listed in main window only
+
+
+Checksums-Sha1: 
+ 1fbda669f1d3ba8fe5c1f210fd1c5274941f2cb5 1332714 griffith-0.10.tar.gz
+ 991a7dc7961f6fafb75a3566dc76aabbec686fac 729824 griffith_0.10-1_all.deb
+Checksums-Sha256: 
+ 024a4837590794bafe28730c6384d67e66691e91b6cddf05cd358e8dbfee5a11 1332714 griffith-0.10.tar.gz
+ 96e391256dfc7a78d45202825b9bb29b658cebd63bc16889eb3e2f4969b0889b 729824 griffith_0.10-1_all.deb
+Checksums-MD5: 
+ 1b83ed8de48b39c134d37ffe84b0b6cc 1332714  griffith-0.10.tar.gz
+ bf0f2f19718920e631b91a3759457f7c 729824  griffith_0.10-1_all.deb
+-- 
+Griffith Development Team
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 197 bytes
+Desc: Digital signature
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20090803/0fefd74f/attachment.pgp>
+

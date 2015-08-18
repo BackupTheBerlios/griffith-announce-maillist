@@ -1,0 +1,64 @@
+From ozarow at gmail.com  Sun Dec 24 16:46:24 2006
+From: ozarow at gmail.com (Piotr Ozarowski)
+Date: Sun, 24 Dec 2006 16:46:24 +0100
+Subject: [Griffith-announce] Griffith 0.9~rc1 is out!
+Message-ID: <20061224154624.GV3428@pox.one.pl>
+
+Hi!
+
+Merry Christmas and a Happy New Year!
+
+Griffith 0.9~rc1 has been released as a Christmas gift,
+see below for a list of the most important changes.
+
+This release is marked as "Release Candidate" due to:
+* database format change (if you have any problems send us the
+  ~/.griffith/griffith.gri file or `griffith --debug' output)
+* translations are not finished (translators need more time)
+
+You can find source tarballs and Debian/Ubuntu packages on our website
+(http://griffith.berlios.de). Windows version is not available yet, but
+we'r
+working on it...
+
+
+Griffith 0.9~rc1 "Christmas Edition"
+====================================
+* SQLAlchemy transition, i.e.
+  + MySQL support added
+  + PostgreSQL support added
+  + SQLite3 transition on Linux (pysqlite2 is now required)
+* Import plugin system added, first import plugin (CSV)
+* All movie plugins updated
+* New data:
+  + video codec
+  + audio codec
+  + audio channels
+  + subtitle format
+  + "commentary" language type added
+* GUI changes:
+  + editing movie details moved to "Add" dialog
+  + languages data look changed
+  + draggable toolbar
+  + new "next" / "previous" buttons
+  + windows converted to dialogs
+* Selectable search data in movie plugins (search only for data you want to
+  download or not yet filled data)
+* Fetch details from different movie plugins
+* Smaller backup zip files generation
+* HTML export plugin changes:
+  + Fixed problem with posters conversion on Windows
+  + New green style in exported HTML tables
+* Configurable main list's default sorting criteria
+* Lots of bugs fixed (some new added ;-)
+
+
+Have fun!
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20061224/1e9bf4d7/attachment.pgp>
+

@@ -1,0 +1,103 @@
+From piotr at griffith.cc  Sun Oct  3 22:29:48 2010
+From: piotr at griffith.cc (Piotr =?utf-8?Q?O=C5=BCarowski?=)
+Date: Sun, 3 Oct 2010 22:29:48 +0200
+Subject: [Griffith-announce] Griffith 0.12 released
+Message-ID: <20101003202948.GA9583@piotro.eu>
+
+Griffith 0.12 has been released :-)
+
+Main changes:
+* New import plugins:
+   - Griffith XML
+* New movie plugins:
+   - Clubdevideo
+   - Hong Kong Movie DataBase (www.hkmdb.com)
+   - IMDb-it
+   - Scope (www.scope.dk)
+* Updated movie plugins: AniDB, DVDPalace, FileVonA-Z, IMDb, IMDb-de, IMDb-es, KinoDe, WP, Zelluloid
+* PDF export plugin updated (shows poster now; font size can be adjusted;
+  new elements covers, year, runtime, notes and plot; elements can be deselected)
+* bug fixes
+
+
+Checksums-Sha1: 
+ 906aec41043904588dc41317aef16e23727738cc 735184 griffith-0.12.tar.xz
+ 942ba54778c7f57e9b8f52c2abe691e32d7b0343 1451794 griffith-0.12.tar.gz
+ d656544f5b8544fcd9c7ed8c95c0247718461ffb 798990 griffith_0.12-1_all.deb
+Checksums-Sha256: 
+ fe973eac729a402c837c3aa8e45e7677309d049e011c4ba1df82910819a8a789 735184 griffith-0.12.tar.xz
+ f374c076d351179e6540d072b0af38c052f0807f0357588ba7e780284206d4bb 1451794 griffith-0.12.tar.gz
+ 0db07a72cc192d8a8d7f41ec73e9f452099338ec897f71f719ccf5b39919295b 798990 griffith_0.12-1_all.deb
+Checksums-MD5: 
+ 3dfbdfcdd7a8b069ee259c1057d4936b 735184 griffith-0.12.tar.xz
+ da643cabca1743632eebecd9a4f73039 1451794 gnome optional griffith-0.12.tar.gz
+ 83bade67c8eb1121391ecc033e52d7ed 798990 gnome optional griffith_0.12-1_all.deb
+-- 
+Griffith Development Team
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 836 bytes
+Desc: Digital signature
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20101003/89d92418/attachment.pgp>
+
+From piotr at griffith.cc  Sun Oct 10 19:47:13 2010
+From: piotr at griffith.cc (Piotr =?utf-8?Q?O=C5=BCarowski?=)
+Date: Sun, 10 Oct 2010 19:47:13 +0200
+Subject: [Griffith-announce] ask.griffith.cc
+Message-ID: <20101010174713.GD11787@piotro.eu>
+
+Hi,
+
+There's a Shapado? instance available on http://ask.griffith.cc/ which
+(hopefully) will replace http://wiki.griffith.cc/FAQ and take some heat
+from http://forum.griffith.cc.
+
+What is Shapado? You can ask questions, propose an answer, comment it or
+vote for answers that helped you.
+
+[?] http://shapado.com/
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 198 bytes
+Desc: Digital signature
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20101010/df8ba7f7/attachment.pgp>
+
+From piotr at griffith.cc  Sun Oct 24 22:48:16 2010
+From: piotr at griffith.cc (Piotr =?utf-8?Q?O=C5=BCarowski?=)
+Date: Sun, 24 Oct 2010 22:48:16 +0200
+Subject: [Griffith-announce] Griffith 0.12.1 released
+Message-ID: <20101024204815.GB4072@piotro.eu>
+
+Griffith 0.12.1 has been released :-)
+
+Main changes:
+* Upgrade procedure from 0.9 database stabilized a little bit
+* Few movie plugins updated
+
+
+Checksums-Sha1: 
+ 1cfa8cd35d82779f3673146e6fa0f16b0bbafed8 1451056 griffith-0.12.1.tar.gz
+ 6b00a140fd22eead4085336fdc5d1ff2c413a574 734356 griffith-0.12.1.tar.xz
+ 3edbf188410a9fe8ae8edfe8453ff9d9d6d017d5 799820 griffith_0.12.1-1_all.deb
+Checksums-Sha256: 
+ 13d721dc1f7e638a0f22cbc903d6156c666d77b1c1fd4bc9050136c238aa7f57 1451056 griffith-0.12.1.tar.gz
+ b1cba8ba263cee2ab5bca2cadd485a61af93a7645f80c9d538c14795a60afa3a 734356 griffith-0.12.1.tar.xz
+ 96a543338cf639919bb1543b030ac5bde04053439f593ae25aea6105ddabb1aa 799820 griffith_0.12.1-1_all.deb
+Checksums-MD5: 
+ fb77aac2b1956bcb0eb766380daaf77b 1451056 griffith-0.12.1.tar.gz
+ e4f2a07b65c0b6d93b3a1888de98d0d3 734356 griffith-0.12.1.tar.xz
+ 138b202cc11e0642513efae25d6d5dbe 799820 griffith_0.12.1-1_all.deb
+-- 
+Griffith Development Team
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 836 bytes
+Desc: Digital signature
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20101024/0cc0b825/attachment.pgp>
+

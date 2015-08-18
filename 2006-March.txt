@@ -1,0 +1,30 @@
+From vasco.m.nunes at gmail.com  Sun Mar  5 19:14:28 2006
+From: vasco.m.nunes at gmail.com (Vasco Nunes)
+Date: Sun, 05 Mar 2006 18:14:28 +0000
+Subject: [Griffith-announce] Griffith 0.6
+Message-ID: <1141582468.7464.4.camel@localhost.localdomain>
+
+Hi!
+
+Just to let you know that Griffith 0.6 has been released. Some new
+exciting features are present, dozens of bugs were fixed and some code
+has been improved as well.
+
+Make sure to check http://griffith.vasconunes.net/ for downloads.
+
+You can find there source tarballs and debian/ubuntu packages for both
+griffith and griffith-extra-artwork. If you are a archlinux user, you
+can find packages at Archlinux User Repository http://aur.archlinux.org/
+
+Have fun!
+
+-- 
+Vasco Nunes <vasco.m.nunes at gmail.com>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 191 bytes
+Desc: This is a digitally signed message part
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20060305/c55c8f4b/attachment.pgp>
+

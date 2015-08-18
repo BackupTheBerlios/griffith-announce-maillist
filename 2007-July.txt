@@ -1,0 +1,55 @@
+From vasco.m.nunes at gmail.com  Sun Jul  1 10:53:53 2007
+From: vasco.m.nunes at gmail.com (Vasco Nunes)
+Date: Sun, 1 Jul 2007 09:53:53 +0100
+Subject: [Griffith-announce] Griffith 0.9.3 has been released
+Message-ID: <bf6fc4cb0707010153s374968e2r1d13ec08e682f0a2@mail.gmail.com>
+
+Griffith version 0.9.3 has been released today.
+
+Changelog:
+
+* New configuration file format (human readable) - please note that
+data from old config file is not used
+* Updated movie plugins: Filmweb, WP, FDb, IMDb, 7arte.net, Cineteka,
+Kino.de, DVD-Palace, E-Pipoca, Stopklatka
+* New movie plugins: FilmDb, Zelluloid, IMDb-de
+* New translations:
+  + Dutch (thanks to Marcel Dijkstra)
+  + Danish (thanks to Joe Dalton)
+  + Greek (thanka to Ioannis Koniaris)
+  + Simplified Chinese (thanks to kempson)
+* Updated translations: German, Spanish, French, Polish and Portuguese
+Brazilian (from Rosetta)
+* Added new alpha export plugin for iPods
+* Added Microsoft SQL support
+* Lots of bugs fixed
+
+As usual, grab it from http://griffith.berlios.de/
+
+Have fun!
+-- 
+Vasco Nunes
+Griffith Development Team
+
+
+From ozarow at gmail.com  Mon Jul  2 21:53:16 2007
+From: ozarow at gmail.com (Piotr Ozarowski)
+Date: Mon, 2 Jul 2007 21:53:16 +0200
+Subject: [Griffith-announce] Griffith 0.9.3.1 released
+Message-ID: <20070702195316.GF1297@pox.one.pl>
+
+Griffith version 0.9.3.1 has been released.
+
+This version fixes a problem with saving database preferences in config
+file.
+
+-- 
+Griffith Development Team
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20070702/807d45bd/attachment.pgp>
+

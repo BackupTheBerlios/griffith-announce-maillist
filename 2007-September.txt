@@ -1,0 +1,30 @@
+From ozarow at gmail.com  Mon Sep  3 00:41:22 2007
+From: ozarow at gmail.com (Piotr Ozarowski)
+Date: Mon, 3 Sep 2007 00:41:22 +0200
+Subject: [Griffith-announce] Griffith 0.9.5 released
+Message-ID: <20070902224122.GE4685@pox.one.pl>
+
+Griffith version 0.9.5 has been released.
+
+Changes:
+* Backup function fixed
+* Updated movie plugins: 7arte, IMDB-de, KinoDE
+* Several changes on loan e-mail reminder system:
+  + Loan E-mail reminder timeout implemented
+  + Support for TLS smtp auth handshaking
+  + Added smtp server port usage
+  + Added gmail smtp server support
+* Translation changes:
+  + new: Catalan, Norwegian Bokmal
+  + uptaded: Brazilian Portuguese, Cech, Dutch, French, German, Italian, Polish, Portuguese, Russian
+* [Bug #11864] Fixed medium and video codec's default value in add window
+-- 
+Griffith Development Team
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20070903/9d77a38d/attachment.pgp>
+

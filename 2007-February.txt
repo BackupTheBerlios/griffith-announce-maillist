@@ -1,0 +1,47 @@
+From vasco.m.nunes at gmail.com  Tue Feb 13 23:48:34 2007
+From: vasco.m.nunes at gmail.com (Vasco Nunes)
+Date: Tue, 13 Feb 2007 22:48:34 +0000
+Subject: [Griffith-announce] Griffith 0.9.1 is out!
+Message-ID: <bf6fc4cb0702131448w44caf9ccj9dbe2534b9012f7b@mail.gmail.com>
+
+Griffith 0.9.1 has been released today. This is mainly a bug fix
+release, addressing a problem related with loan data, when converting
+an old database to the new format.
+
+This is a recommended upgrade for all users.
+
+You can find the source tarball, debian and ubuntu dapper packages,
+along with Microsoft Windows binary as usual at
+http://vasconunes.net/griffith/
+
+-- 
+Vasco Nunes
+Griffith Development Team
+
+
+From vasco.m.nunes at gmail.com  Wed Feb 21 00:02:34 2007
+From: vasco.m.nunes at gmail.com (Vasco Nunes)
+Date: Tue, 20 Feb 2007 23:02:34 +0000
+Subject: [Griffith-announce] New Griffith version released
+Message-ID: <bf6fc4cb0702201502m619ee2fft48f5116d619abb79@mail.gmail.com>
+
+A new version is out!
+
+Griffith 0.9.2 has been released and have the following changes:
+
+* Updated movie plugins: IMDB, CSFD, KinoDE, FilmeVonAZ
+* New movie plugin: DVDEmpire
+* New seen/unseen icons
+
+Since IMDB plugin has stopped to work as expected, this update is
+highly recommended.
+
+You can grab it at the usual place: http://griffith.vasconunes.net/
+
+Have fun!
+
+-- 
+Vasco Nunes
+Griffith Development Team
+
+

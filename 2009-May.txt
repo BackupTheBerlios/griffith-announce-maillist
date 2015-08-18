@@ -1,0 +1,43 @@
+From piotr at griffith.cc  Sun May 10 23:52:18 2009
+From: piotr at griffith.cc (Piotr =?utf-8?Q?O=C5=BCarowski?=)
+Date: Sun, 10 May 2009 23:52:18 +0200
+Subject: [Griffith-announce] Griffith 0.9.10 released
+Message-ID: <20090510215218.GE3796@piotro.eu>
+
+Griffith 0.9.10 has been released.
+
+Main changes:
+* New movie plugins: AllMovie, MyMoviesIt (thanks to Giovanni Sposito)
+* Updated movie plugins: 7arte, Allocine, Amazon, AniDB, Cinematografo,
+  CineMovies, Cineteka, Culturalia,
+  DVD Empire, DVD-Palace, E-Pipoca, FilmAffinity, FilmDb, Filmtipset,
+  IMDB, IMDB-de, MovieFone, PTGate
+* added HD DVD and Blu-ray to the medium table for new databases
+* fixed Greek translation of the word "Danish" (thanks to Johnny)
+  (new installations of griffith with greek environment doesn't work)
+* Updated PDF export plugin
+* enhanced results for amazon poster search
+* bugs fixed: #224546, #269907, #290979, #313012, #317837, #337758,
+  #341826, #348226 (see ChangeLog for more)
+* Windows installer: movie import plugins deselectable from installation
+
+
+Checksums-Sha1: 
+ dfd6819e595c9349006292282a2f3e1fdcb4748d 1497329 griffith-0.9.10.tar.gz
+ 249f2a021a6aec3f7eff0e14645c79475f1ab105 923092 griffith_0.9.10-1_all.deb
+Checksums-Sha256: 
+ fbd713ff10bc8df2989a416d3915f63054f37f3ebffd7cbb8127a06334e0ada6 1497329 griffith-0.9.10.tar.gz
+ 65426ac1b51e2cd55e55ca3b90b8e4385f635e72fd138653761e9e4412c874a5 923092 griffith_0.9.10-1_all.deb
+Checksums-MD5: 
+ 2554718b47f2ebc9d97958a2ae6d36aa 1497329 griffith-0.9.10.tar.gz
+ 06ad33ff2818302b75da0068815518ef 923092 griffith_0.9.10-1_all.deb
+-- 
+Griffith Development Team
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 197 bytes
+Desc: Digital signature
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20090510/128401f7/attachment.pgp>
+

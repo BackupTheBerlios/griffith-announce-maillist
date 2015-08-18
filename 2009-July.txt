@@ -1,0 +1,36 @@
+From piotr at griffith.cc  Mon Jul 13 00:02:16 2009
+From: piotr at griffith.cc (Piotr =?utf-8?Q?O=C5=BCarowski?=)
+Date: Mon, 13 Jul 2009 00:02:16 +0200
+Subject: [Griffith-announce] Griffith 0.10-rc1 released
+Message-ID: <20090712220216.GB3709@piotro.eu>
+
+Griffith 0.10-rc1 has been released.
+
+Main changes:
+* New export plugins: Ant Movie Catalog, GCstar, DVD Profiler XML Export
+  V2 and V3
+* New import plugin: Ant Movie Catalog
+* Updated movie plugins: IMDb, Allocine, CineMovies, IMDb-de,
+  MovieMeter, Zelluloid, AniDB
+* Few bugs fixed
+
+
+Checksums-Sha1: 
+ a6eab32c669d57e2c3df8eb72b6add3a6399522d 1332679 griffith-0.10-rc1.tar.gz
+ 7d651177cce3c6f39fed881d54f48d96d5fe474d 729740 griffith_0.10~rc1-1_all.deb
+Checksums-Sha256: 
+ 04de434cdd0354a03bc4f5666a9b7f2d2e551d468983f7c6bc37c6317c30c936 1332679 griffith-0.10-rc1.tar.gz
+ 63dc245235a2aa2427b2ddba538bdddcba94d01728ed5c767ac9560619708895 729740 griffith_0.10~rc1-1_all.deb
+Checksums-MD5: 
+ 84467a45fcc7ae547ed96104efec4bf0 1332679 griffith-0.10-rc1.tar.gz
+ 7db33e569d8f5f5aea40535412e9a728 729740 griffith_0.10~rc1-1_all.deb
+-- 
+Griffith Development Team
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 197 bytes
+Desc: Digital signature
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20090713/d81011f2/attachment.pgp>
+

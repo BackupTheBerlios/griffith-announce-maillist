@@ -1,0 +1,35 @@
+From piotr at griffith.cc  Thu Jun 11 23:40:31 2009
+From: piotr at griffith.cc (Piotr =?utf-8?Q?O=C5=BCarowski?=)
+Date: Thu, 11 Jun 2009 23:40:31 +0200
+Subject: [Griffith-announce] Griffith 0.10-beta3 released
+Message-ID: <20090611214031.GE4204@piotro.eu>
+
+Griffith 0.10-beta3 has been released.
+
+Main changes:
+* Backup function fixed
+* PostgreSQL/MySQL backup support added
+* Restoring from backup works with external databases
+* New movie plugins: All Media Guide and MovieMete
+* Many movie plugins updated
+
+
+Checksums-Sha1: 
+ 2c3ae0ccfa3df6c2f23e8a43a220f69cfc1cdc86 1300520 griffith-0.10-beta3.tar.gz
+ ee8aecd651f125628ff59dff0a50db5f2ac0e676 711904 griffith_0.10~beta3-1_all.deb
+Checksums-Sha256: 
+ b077f85bba15167038e8dc45992cde509bd23a3aad01c3e94524c1bd3f64ae9a 1300520 griffith-0.10-beta3.tar.gz
+ 584700ed18dfb4ae5a506d600b54185481927c330e35268ea4cff5a3d220e368 711904 griffith_0.10~beta3-1_all.deb
+Checksums-MD5: 
+ f6caeef63d0cc5d6588a0aa301185634 1300520 griffith-0.10-beta3.tar.gz
+ e9e2a8919d3f3c5eaaed6f6f52acd885 711904 griffith_0.10~beta3-1_all.deb
+-- 
+Griffith Development Team
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 197 bytes
+Desc: Digital signature
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20090611/d4072d90/attachment.pgp>
+

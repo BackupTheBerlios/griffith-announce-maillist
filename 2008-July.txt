@@ -1,0 +1,56 @@
+From ozarow at gmail.com  Mon Jul 21 23:04:39 2008
+From: ozarow at gmail.com (Piotr =?utf-8?Q?O=C5=BCarowski?=)
+Date: Mon, 21 Jul 2008 23:04:39 +0200
+Subject: [Griffith-announce] Griffith 0.9.7 released
+Message-ID: <20080721210439.GA30143@piotro.eu>
+
+Michael updated 0.9.x branch. Main changes are:
+
+* Fixed fetching posters from Amazon
+* Updated movie plugins: DVDEmpire, Filmtipset, Filmweb, OFDb, Zelluloid
+* Update export plugins: HTML, PDF
+* Translation changes:
+  + new: Latvian, Ukrainian 
+  + updated: bg, ca, da, de, el, es, fr, it, nb, pt, pt_BR, ru, sv, tr
+* Few quick filter combos added (advanced search function not ready yet)
+
+Please see ChangeLog for more details.
+-- 
+Griffith Development Team
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 197 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20080721/aac20fe8/attachment.pgp>
+
+From ozarow at gmail.com  Sat Jul 26 22:52:47 2008
+From: ozarow at gmail.com (Piotr =?utf-8?Q?O=C5=BCarowski?=)
+Date: Sat, 26 Jul 2008 22:52:47 +0200
+Subject: [Griffith-announce] Griffith 0.9.7.1 released
+Message-ID: <20080726205247.GA16431@piotro.eu>
+
+Griffith 0.9.7.1 that fixes crash when database (rating/year/runtime
+fields) contains empty data was released
+
+
+Checksums-Sha1:
+ 4b021a9c5645794a28d2f87b20fabd8c3354fe01 1367075 griffith-0.9.7.1.tar.gz
+ 67a31665bfb9678c36297b5d0738616070917e88 880934 griffith_0.9.7.1-1_all.deb
+Checksums-Sha256:
+ 83c6914c60ba8c57ce2f885a32b6ca08841622ea42b91db657427c3e21ddc8d4 1367075 griffith-0.9.7.1.tar.gz
+ 0a944f8a0f88e554182feb169ab2528659b2b0b4ec55ddbc8e48c9a31c55eae8 880934 griffith_0.9.7.1-1_all.deb
+Checksums-MD5:
+ 3ebdaaca37e6a8aefc8c18201d35dea2 1367075 griffith-0.9.7.1.tar.gz
+ 9767d40263cf97293183de69eafeda0f 880934 griffith_0.9.7.1-1_all.deb
+-- 
+Griffith Development Team
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 197 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20080726/95a4d143/attachment.pgp>
+

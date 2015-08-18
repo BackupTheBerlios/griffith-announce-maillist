@@ -1,0 +1,119 @@
+From ozarow at gmail.com  Mon Jan  8 02:39:12 2007
+From: ozarow at gmail.com (Piotr =?utf-8?Q?O=C5=BCarowski?=)
+Date: Mon, 8 Jan 2007 02:39:12 +0100
+Subject: [Griffith-announce] Griffith 0.9-rc2 is out!
+Message-ID: <20070108013912.GE26599@pox.one.pl>
+
+Hi Movie-Fans!
+
+We hope you enjoyed christmas and our Christmas Edition,
+now we bring you the next release candidate two.
+Several bugs have been fixed and some small enhancements are made.
+For more information check the README and CHANGELOG files.
+
+Finally we have also the windows version ready.
+
+You can find the windows installer, source tarballs and Debian/Ubuntu packages
+on our website (http://griffith.berlios.de).
+
+
+We hope you enjoy the new version,
+
+your Griffith-Team
+
+
+Griffith 0.9-rc2
+================
+
+* Griffith works now a lot faster with large (>1000 movies) databases
+* Fix displaying volume/collection's loan status
+* Config files are now fully cross-platform
+* New features:
+  + limit search results to x movies
+  + sort by last added movies
+  + hide "Number" column
+  + change "seen it" status without opening edit window, new icons added
+* Filmweb movie plugin fixed
+* Updated translations: Czech, French, German, Portuguese, Portuguese Brazilian,
+  Swedish
+
+Note to package maintainers:
+Please keep pysqlite1.0 as required dependency (see README file)
+This will make upgrade process from 0.6.2 a lot easier.
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20070108/d427b553/attachment.pgp>
+
+From ozarow at gmail.com  Wed Jan 10 01:11:16 2007
+From: ozarow at gmail.com (Piotr Ozarowski)
+Date: Wed, 10 Jan 2007 01:11:16 +0100
+Subject: [Griffith-announce] Griffith 0.9-rc3 released
+Message-ID: <20070110001115.GK6604@pox.one.pl>
+
+Hi,
+
+Griffith 0.9-rc3 has been released due to problems with upgrading from
+the old database on Windows.
+
+Tarball, packages for Debian / Ubuntu and installer for Windows can be
+found, as usual, on our site[1].
+
+Regards,
+Griffith Team.
+
+
+Griffith 0.9-rc3
+================
+
+* Old database is not modified during upgrade process (bug introduced in 0.9-rc2)
+* Catch some more bad cases while upgrading database
+* Fix upgrading volume / collection loan data
+* Updated translations: Italian
+
+[1] http://griffith.vasconunes.net/ (berlios is not working at the moment)
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/griffith-announce/attachments/20070110/99cb7301/attachment.pgp>
+
+From vasco.m.nunes at gmail.com  Sat Jan 27 01:57:03 2007
+From: vasco.m.nunes at gmail.com (Vasco Nunes)
+Date: Sat, 27 Jan 2007 00:57:03 +0000
+Subject: [Griffith-announce] Griffith 0.9 has been released
+Message-ID: <bf6fc4cb0701261657y6daeaaa8h3713b765015e11d@mail.gmail.com>
+
+Some months after 0.6.2 release, we are proud to release Griffith 0.9
+to the community. We have released a couple of Release Candidates
+before. And we have tried hard to fix all the issues reported by users
+meanwhile. We hope you have fun with this version as much we had
+during the development phase. You will find lots of new features and
+tons of fixes since the latest stable release.
+
+These are the main changes since latest 0.9 RC3:
+
+* Possible memory leak fixed (year data from some movie plugins wasn't parsed
+  correctly)
+* AnimeDB, Filmweb, PTGate and WP movie plugins updated
+* CSV import plugin updated
+* Fetch from Amazon function recognizes more posters now
+* First movie is selected by default now
+* Czech translation updated
+
+For a complete changelog since Griffith 0.6.2, please report to the
+changelog file included on the source tarball.
+
+You can get Griffith source tarball, debian, ubuntu and windows
+packages at http://griffith.vasconunes.net/pages/download.php
+
+Have fun!
+
+The Griffith development team
+
+
